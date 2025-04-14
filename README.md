@@ -6,30 +6,47 @@
 
 ---
 
+## 🌟 About Me:
+
+- 💻 Self-taught dev on a mission to build cool stuff that actually works.
+- 🎯 Turning imagination into real-world apps.
+- 🎮 Big anime fan — my debugging is powered by *shonen* energy.
+- 🧠 Lifelong learner, currently diving deep into frontend magic.
+- 🧃 Sometimes I write code. Sometimes I break it. Always learning.
+
+---
+
 ## 💻 Tech Stack:
+
 - 🌐 HTML, CSS, JavaScript  
+- ⚛️ React (in progress...)  
 - ⚙️ Git & GitHub  
-- 🧠 Learning: React, Python, Tailwind  
+- 🐍 Python (dabbling!)  
+- 📦 VS Code is my second home
 
 ---
 
-## 📊 GitHub Stats:
-![Bro's GitHub stats](https://github-readme-stats.vercel.app/api?username=brostudent&show_icons=true&theme=tokyonight)
+## 🔥 My Goals Right Now:
+
+- 🌱 Master React & explore backend basics  
+- 🚀 Contribute to open-source projects  
+- 🛠 Build more anime-themed apps (because why not?)  
+- 📚 Document everything I learn like a tech diary  
 
 ---
 
-## ✨ Fun Stuff:
-- 🧠 Anime philosophy junkie  
-- 🍜 Ramen > Everything  
-- 🐱 Cat whisperer (in training)
+## 📫 Let's Connect!
+
+- 🐦 Twitter: [@haaziq_codes](https://twitter.com/haaziq_codes)  
+- 💼 LinkedIn: [Haaziq Ali](https://linkedin.com/in/haaziq-ali)  
+- 🌐 Portfolio: [haaziq.dev](https://haaziq.dev) <!-- if you don't have one yet, no stress—just placeholder vibes -->
 
 ---
 
-## 📫 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%8E%A8-blueviolet?style=for-the-badge)](https://yourwebsite.com)
+> “Code is my sword. Imagination is my shield. Let’s build something legendary.” ⚔️
 
 ---
 
-> “I'm gonna be the King of Devs!” – You (probably)
+Want me to design a **custom GitHub badge**, **anime-themed section**, or **project showcase** next? Just say the word, sensei. 🧙‍♂️💻
+
 
