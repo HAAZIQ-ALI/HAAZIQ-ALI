@@ -108,5 +108,5 @@ const goals = {
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&animation=fadeIn" />
 </div>
