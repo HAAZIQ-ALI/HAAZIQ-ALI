@@ -7,44 +7,25 @@
 ## 🌟 About Me:
 
 - 💻 Self-taught dev on a mission to build cool stuff that actually works.
-- 🎯 Turning imagination into real-world apps.
-- 🎮 Big anime fan — my debugging is powered by *shonen* energy.
-- 🧠 Lifelong learner, currently diving deep into frontend magic.
+- 🎯 Turning Dreams into Realitys.
+- 🧠 Lifelong learner, currently diving deep into data science.
 - 🧃 Sometimes I write code. Sometimes I break it. Always learning.
-
----
-
-## 💻 Tech Stack:
-
-- 🌐 HTML, CSS, JavaScript  
-- ⚛️ React (in progress...)  
-- ⚙️ Git & GitHub  
-- 🐍 Python (dabbling!)  
-- 📦 VS Code is my second home
 
 ---
 
 ## 🔥 My Goals Right Now:
 
-- 🌱 Master React & explore backend basics  
-- 🚀 Contribute to open-source projects  
-- 🛠 Build more anime-themed apps (because why not?)  
-- 📚 Document everything I learn like a tech diary  
-
+- 🌱 Learn Machine Learning & build AI   
+- 🎯 Master Data Science
 ---
 
 ## 📫 Let's Connect!
 
-- 🐦 Twitter: [@haaziq_codes](https://twitter.com/haaziq_codes)  
 - 💼 LinkedIn: [Haaziq Ali](https://linkedin.com/in/haaziq-ali)  
 - 🌐 Portfolio: [haaziq.dev](https://haaziq.dev) <!-- if you don't have one yet, no stress—just placeholder vibes -->
 
 ---
 
-> “Code is my sword. Imagination is my shield. Let’s build something legendary.” ⚔️
 
----
-
-Want me to design a **custom GitHub badge**, **anime-themed section**, or **project showcase** next? Just say the word, sensei. 🧙‍♂️💻
 
 
