@@ -39,3 +39,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAAZIQ-ALI&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
+<style>
+  .gradient-background {
+    background: linear-gradient(45deg, #f06, #48c6ef);
+    padding: 30px;
+    border-radius: 10px;
+  }
+</style>
+
+<p align="center" class="gradient-background">
+  <strong>Look at this awesome gradient background!</strong>
+</p>
