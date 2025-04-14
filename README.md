@@ -78,14 +78,8 @@ const goals = {
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HAAZIQ-ALI&theme=tokyonight&hide_border=false" />
 </div>
-<div align="right">
-  <img src="https://leetcard.jacoblin.cool/Y4heW1qDC3?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats"/>
-</div>
--🎧 Currently Vibing To
 <div align="left">
-
-[![Music](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/tC68gpj0I6E?si=3nPdoppGdlLWDYyA)
-
+  <img src="https://leetcard.jacoblin.cool/Y4heW1qDC3?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats"/>
 </div>
 
 
