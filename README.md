@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Bro 👋</h1>
+<h1 align="center">Hey there, I'm HAAZIQ ALI 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=435&lines=Passionate+about+Code+%F0%9F%92%BB;Lover+of+Anime+%F0%9F%8E%A9;Challenger+of+CBSE+Bosses+%F0%9F%91%BD" alt="Typing SVG" />
