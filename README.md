@@ -104,7 +104,10 @@ const goals = {
 </div>
 
 ---
-
+╔════════════════════════════════════╗
+║          HAAZIQ ALI                ║
+║Developer| ANIME Addict| I CAN COOK ║
+╚════════════════════════════════════╝
 
 
 <div align="center">
