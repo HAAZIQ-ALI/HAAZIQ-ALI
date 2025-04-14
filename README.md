@@ -31,4 +31,11 @@
 </p>
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HAAZIQ-ALI&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAAZIQ-ALI&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
