@@ -81,7 +81,7 @@ const goals = {
 
 ## 🧠 LeetCode Stats
 
-<div align="center">
+<div align="left">
   <img src="https://leetcard.jacoblin.cool/Y4heW1qDC3?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats"/>
 </div>
 
