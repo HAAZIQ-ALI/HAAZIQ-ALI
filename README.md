@@ -81,16 +81,16 @@ const goals = {
 <div align="right">
   <img src="https://leetcard.jacoblin.cool/Y4heW1qDC3?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats"/>
 </div>
-
-
-
-## 🎧 Currently Vibing To
-
+-🎧 Currently Vibing To
 <div align="center">
 
 [![Music](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/tC68gpj0I6E?si=3nPdoppGdlLWDYyA)
 
 </div>
+
+
+
+
 
 ## 📫 Let's Connect!
 
