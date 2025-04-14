@@ -10,7 +10,6 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Developer%20|%20AI%20Enthusiast&fontSize=50&fontAlignY=35&animation=fadeIn)
 
-<img src="https://i.imgur.com/mfKoxSG.png" alt="Luffy Straw Hat" width="150" />
 
 </div>
 
@@ -58,7 +57,7 @@
 
 ## 🎯 Current Goals
 
-```javascript
+```GOALS
 const goals = {
   learning: ["Machine Learning", "AI Development", "Data Science"],
   projects: ["Building AI applications", "Data visualization tools"],
@@ -86,14 +85,7 @@ const goals = {
   <img src="https://leetcard.jacoblin.cool/Y4heW1qDC3?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats"/>
 </div>
 
-## 🔍 My Projects
 
-<div align="center">
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=HAAZIQ-ALI&repo=replace-with-your-repo&theme=tokyonight)](https://github.com/HAAZIQ-ALI/replace-with-your-repo)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=HAAZIQ-ALI&repo=replace-with-your-repo2&theme=tokyonight)](https://github.com/HAAZIQ-ALI/replace-with-your-repo2)
-
-</div>
 
 ## 🎧 Currently Vibing To
 
@@ -121,11 +113,7 @@ const goals = {
 
 ---
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/uses-brains.svg" />
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
