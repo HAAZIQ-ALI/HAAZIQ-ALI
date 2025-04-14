@@ -81,7 +81,7 @@ const goals = {
 <div align="left">
   <img src="https://leetcard.jacoblin.cool/Y4heW1qDC3?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats"/>
 </div>
-<img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" width="100" height="100" align="right">
+<img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" width="90" height="90" align="right">
 
 
 
