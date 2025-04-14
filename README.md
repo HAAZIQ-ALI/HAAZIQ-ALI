@@ -10,6 +10,8 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Developer%20|%20AI%20Enthusiast&fontSize=50&fontAlignY=35&animation=fadeIn)
 
+<img src="https://i.imgur.com/mfKoxSG.png" alt="Luffy Straw Hat" width="150" />
+
 </div>
 
 ## 🚀 About Me
@@ -21,6 +23,7 @@
 - 🧠 Perpetual learner with an insatiable curiosity
 - 🎯 Passionate about building intuitive and efficient applications
 - 🎭 Anime enthusiast exploring digital and real worlds
+- 🏴‍☠️ Finding my own One Piece in the world of coding
 
 <details>
 <summary>👀 More about me...</summary>
@@ -98,31 +101,7 @@ const goals = {
 
 [![Music](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/tC68gpj0I6E?si=3nPdoppGdlLWDYyA)
 
-<a href="https://youtu.be/tC68gpj0I6E?si=3nPdoppGdlLWDYyA">
-  <img src="https://img.youtube.com/vi/tC68gpj0I6E/maxresdefault.jpg" width="480" alt="YouTube Video Thumbnail"/>
-</a>
-
 </div>
-
-## 💡 Coding Activity
-
-<div align="center">
-  
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=HAAZIQ-ALI&theme=tokyonight&hide_border=false)
-
-</div>
-
-## 🌐 Programming Journey
-
-```mermaid
-timeline
-    title My Coding Timeline
-    2020 : Started Learning Programming
-    2021 : First Data Science Project
-    2022 : Exploring Neural Networks
-    2023 : Contributing to Open Source
-    2024 : Building AI Applications
-```
 
 ## 📫 Let's Connect!
 
@@ -131,6 +110,12 @@ timeline
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haaziq-ali)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://haaziq.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haaziqali01@gmail.com)
+
+</div>
+
+<div align="center">
+  
+> "I'm gonna be King of the Developers!" - Monkey D. Luffy (probably)
 
 </div>
 
