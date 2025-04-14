@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Passionate+Developer+%F0%9F%92%BB;Anime+Enthusiast+%F0%9F%8E%AD;Turning+dreams+into+reality+%F0%9F%92%A1)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/HAAZIQ-ALI?logo=GitHub&style=for-the-badge)](https://github.com/HAAZIQ-ALI)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/haaziq-ali)
 [![Portfolio](https://img.shields.io/badge/Portfolio-haaziq.dev-00F7FF?style=for-the-badge&logo=safari)](https://haaziq.dev)
 
@@ -82,7 +82,7 @@ const goals = {
   <img src="https://leetcard.jacoblin.cool/Y4heW1qDC3?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats"/>
 </div>
 -🎧 Currently Vibing To
-<div align="center">
+<div align="left">
 
 [![Music](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/tC68gpj0I6E?si=3nPdoppGdlLWDYyA)
 
