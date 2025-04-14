@@ -25,15 +25,18 @@
 <details>
 <summary>👀 More about me...</summary>
 
-```python
-haaziq = {
-    'pronouns': 'He/Him',
-    'code': ['Python', 'C++', 'JavaScript'],
-    'anime_favs': ['One Piece', 'Naruto', 'Attack on Titan'],
-    'challenge': 'I am constantly pushing my limits in ML and data science',
-    'favorite_quote': 'The only way to do great work is to love what you do.'
-}
-```
+<div align="center">
+
+| 💻 **Tech Stack** | 🎭 **Anime Favs** | 🧠 **Current Focus** |
+|:----------------:|:----------------:|:--------------------:|
+| Python           | One Piece        | Machine Learning     |
+| C++              | Naruto           | Data Science         |
+| JavaScript       | Attack on Titan  | Neural Networks      |
+
+</div>
+
+> "The only way to do great work is to love what you do." - Steve Jobs
+
 </details>
 
 ## 🛠️ Skills
@@ -77,7 +80,7 @@ const goals = {
 ## 🧠 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Y4heW1qDC3?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats"/>
 </div>
 
 ## 🔍 My Projects
@@ -89,13 +92,37 @@ const goals = {
 
 </div>
 
-## 🎵 Vibing To
+## 🎧 Currently Vibing To
+
+<div align="center">
+
+[![Music](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/tC68gpj0I6E?si=3nPdoppGdlLWDYyA)
+
+<a href="https://youtu.be/tC68gpj0I6E?si=3nPdoppGdlLWDYyA">
+  <img src="https://img.youtube.com/vi/tC68gpj0I6E/maxresdefault.jpg" width="480" alt="YouTube Video Thumbnail"/>
+</a>
+
+</div>
+
+## 💡 Coding Activity
 
 <div align="center">
   
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&redirect=true)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=HAAZIQ-ALI&theme=tokyonight&hide_border=false)
 
 </div>
+
+## 🌐 Programming Journey
+
+```mermaid
+timeline
+    title My Coding Timeline
+    2020 : Started Learning Programming
+    2021 : First Data Science Project
+    2022 : Exploring Neural Networks
+    2023 : Contributing to Open Source
+    2024 : Building AI Applications
+```
 
 ## 📫 Let's Connect!
 
@@ -112,6 +139,7 @@ const goals = {
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/uses-brains.svg" />
 </div>
 
 <div align="center">
