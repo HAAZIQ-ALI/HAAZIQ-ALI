@@ -27,9 +27,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAAZIQ-ALI&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HAAZIQ-ALI&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HAAZIQ-ALI&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats"/>
@@ -39,14 +38,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAAZIQ-ALI&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-<style>
-  .gradient-background {
-    background: linear-gradient(45deg, #f06, #48c6ef);
-    padding: 30px;
-    border-radius: 10px;
-  }
-</style>
-
-<p align="center" class="gradient-background">
-  <strong>Look at this awesome gradient background!</strong>
+<p align="center">
+  <!-- Gradient background effect can only be applied in a webpage (like GitHub Pages) -->
+  <span style="background: linear-gradient(45deg, #f06, #48c6ef); padding: 30px; border-radius: 10px;">
+    <strong>Look at this awesome gradient background!</strong>
+  </span>
 </p>
