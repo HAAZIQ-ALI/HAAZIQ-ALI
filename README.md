@@ -25,13 +25,18 @@
 - 🌐 Portfolio: [haaziq.dev](https://haaziq.dev) <!-- if you don't have one yet, no stress—just placeholder vibes -->
 
 ---
+<div style="display: flex; justify-content: space-between;">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAAZIQ-ALI&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats"/>
-</p>
+  <!-- Left Image -->
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=HAAZIQ-ALI&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats"/>
+  </p>
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAAZIQ-ALI&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+  <!-- Right Image -->
+  <p align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAAZIQ-ALI&layout=compact&theme=radical" alt="Top Languages"/>
+  </p>
+
+</div>
 
 
