@@ -94,6 +94,7 @@ const goals = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haaziq-ali)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://haaziq-ali-github-io.onrender.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haaziqali01@gmail.com)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=HAAZIQ-ALI)
 
 </div>
 
@@ -106,7 +107,7 @@ const goals = {
 ---
 
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=HAAZIQ-ALI)
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
