@@ -106,6 +106,7 @@ const goals = {
 ---
 
 
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=HAAZIQ-ALI)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
