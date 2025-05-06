@@ -56,6 +56,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
+![API](https://img.shields.io/badge/-API-101A1C?style=flat-square&logo=API&logoColor=white)
 </div>
 
 ## 🎯 Current Goals
