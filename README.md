@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Passionate+Developer+%F0%9F%92%BB;Anime+Enthusiast+%F0%9F%8E%AD;Turning+dreams+into+reality+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/haaziq-ali)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-haaziq.dev-00F7FF?style=for-the-badge&logo=safari)](https://haaziq-ali-github-io.onrender.com)
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Developer%20|%20AI%20Enthusiast&fontSize=50&fontAlignY=35&animation=fadeIn)
 
@@ -22,7 +22,7 @@
 - 🎯 Passionate about building intuitive and efficient applications
 - 🎭 Anime enthusiast exploring digital and real worlds
 - 🏴‍☠️ Finding my own One Piece in the world of coding
-
+- currently working on my own language karouScript 
 <details>
 <summary>👀 More about me...</summary>
 
