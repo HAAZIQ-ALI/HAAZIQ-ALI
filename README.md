@@ -15,6 +15,7 @@
 ## 🚀 About Me
 
 > *"Sometimes I write code. Sometimes I break it. Always learning."*
+> *"just a 14 year old who hates school as much as Linus hates Nvidia "
 
 - 💻 Self-taught developer crafting solutions that make an impact
 - 🔮 Transforming ideas into functional reality, one line at a time
