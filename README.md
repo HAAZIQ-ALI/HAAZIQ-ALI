@@ -68,7 +68,7 @@ const goals = {
   learning: ["Machine Learning", "AI Development", "Data Science"],
   projects: ["Building AI applications", "Data visualization tools"],
   skills: ["Python ML libraries", "Statistical analysis", "Neural networks"],
-  timeline: "Continuous growth and improvement"
+  timeline: "Continuous growth and improvement","I am stupid"
 };
 ```
 
