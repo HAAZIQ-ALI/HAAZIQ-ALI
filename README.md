@@ -22,7 +22,6 @@
 - 🔮 Transforming ideas into functional reality, one line at a time
 - 🧠 Perpetual learner with an insatiable curiosity
 - 🎯 Passionate about building intuitive and efficient applications
-- 🎭 Anime enthusiast exploring digital and real worlds
 - 🏴‍☠️ Finding my own One Piece in the world of coding
 - ❤️ currently working on my own language karouScript 
 <details>
