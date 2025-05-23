@@ -23,7 +23,8 @@
 - 🧠 Perpetual learner with an insatiable curiosity
 - 🎯 Passionate about building intuitive and efficient applications
 - 🏴‍☠️ Finding my own One Piece in the world of coding
-- ❤️ currently working on my own language karouScript 
+- ❤️ currently working on my own language karouScript
+- professional BEROJGAR
 <details>
 <summary>👀 More about me...</summary>
 
