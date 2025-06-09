@@ -104,7 +104,7 @@ const goals = {
 
 <div align="center">
   
-> "I'm gonna be King of the Developers!" - Monkey D. Luffy (probably)
+> "I'm gonna be King of the Developers! " - Monkey D. Luffy (probably)
 
 </div>
 
