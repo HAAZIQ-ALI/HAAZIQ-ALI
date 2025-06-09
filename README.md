@@ -26,7 +26,7 @@
 - ❤️ currently working on my own language karouScript
 - professional BEROJGAR
 <details>
-<summary>👀 More about me...</summary>
+<summary>👀 More about me.....</summary>
 
 <div align="center">
 
