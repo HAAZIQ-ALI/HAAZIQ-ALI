@@ -19,12 +19,11 @@
 > *"just a 14 year old who hates school as much as Linus hates Nvidia "*
 
 - 💻 Self-taught developer crafting solutions that make an impact
-- 🔮 Transforming ideas into functional reality, one line at a time
 - 🧠 Perpetual learner with an insatiable curiosity
 - 🎯 Passionate about building intuitive and efficient applications
 - 🏴‍☠️ Finding my own One Piece in the world of coding
 - ❤️ currently working on my own language karouScript
-- professional BEROJGAR
+- 🛠️ professional BEROJGAR
 <details>
 <summary>👀 More about me.....</summary>
 
@@ -66,7 +65,7 @@ const goals = {
   learning: ["Machine Learning", "AI Development", "Data Science"],
   projects: ["Building AI applications", "Data visualization tools"],
   skills: ["Python ML libraries", "Statistical analysis", "Neural networks"],
-  timeline: "Continuous growth and improvement","I am stupid"
+  timeline: "Continuous growth and improvement","I am stupid,i am MONKE"
 };
 ```
 
