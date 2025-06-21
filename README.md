@@ -19,8 +19,6 @@
 > *"just a 14 year old who hates school as much as Linus hates Nvidia "*
 
 - 💻 Self-taught developer crafting solutions that make an impact
-- 🧠 Perpetual learner with an insatiable curiosity
-- 🎯 Passionate about building intuitive and efficient applications
 - 🏴‍☠️ Finding my own One Piece in the world of coding
 - ❤️ currently working on my own language karouScript
 - 🛠️ professional BEROJGAR
