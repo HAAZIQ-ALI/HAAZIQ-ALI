@@ -14,9 +14,9 @@
 
 ## 🚀 About Me
 
-> *"Sometimes I write code. Sometimes I break it. Always learning."*
+> *"Jack Of All Trades , Master of None."*
 
-> *"just a 14 year old who hates school as much as Linus hates Nvidia "*
+
 
 - 💻 Self-taught developer crafting solutions that make an impact
 - 🏴‍☠️ Finding my own One Piece in the world of coding
