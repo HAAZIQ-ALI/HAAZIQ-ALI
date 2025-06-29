@@ -22,22 +22,7 @@
 - 🏴‍☠️ Finding my own One Piece in the world of coding
 - ❤️ currently working on my own language karouScript
 - 🛠️ professional BEROJGAR
-<details>
-<summary>👀 More about me.....</summary>
 
-<div align="center">
-
-| 💻 **Tech Stack** | 🎭 **Anime Favs** | 🧠 **Current Focus** |
-|:----------------:|:----------------:|:--------------------:|
-| Python           | One Piece        | Machine Learning     |
-| C++              | Naruto           | Data Science         |
-| DSA              | DR Stone         | Neural Networks      |
-
-</div>
-
-> "The only way to do great work is to love what you do." - Steve Jobs
-
-</details>
 
 ## 🛠️ Skills
 
