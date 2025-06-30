@@ -7,7 +7,7 @@
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-haaziq.dev-00F7FF?style=for-the-badge&logo=safari)](https://haaziq-ali-github-io.onrender.com)
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Developer%20|%20AI%20Enthusiast&fontSize=50&fontAlignY=35&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey👋%20|%20I am %20Haaziq&fontSize=50&fontAlignY=35&animation=fadeIn)
 
 
 </div>
