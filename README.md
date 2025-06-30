@@ -6,7 +6,7 @@
 
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-haaziq.dev-00F7FF?style=for-the-badge&logo=safari)](https://haaziq-ali-github-io.onrender.com)
+
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=💻%20Aspiring%20Computer%20Scientist&fontSize=40&fontAlignY=35&animation=fadeIn)
 
 
