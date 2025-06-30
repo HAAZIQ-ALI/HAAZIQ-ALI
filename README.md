@@ -9,6 +9,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-haaziq.dev-00F7FF?style=for-the-badge&logo=safari)](https://haaziq-ali-github-io.onrender.com)
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey👋%20|%20Iam%20Haaziq&fontSize=50&fontAlignY=35&animation=fadeIn)
 
+<h3 align="center">🚀 Aspiring Computer Scientist</h3>
+
 
 </div>
 
