@@ -7,7 +7,7 @@
 
 
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=💻%20Aspiring%20Computer%20Scientist&fontSize=40&fontAlignY=35&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=💻%20ASPIRING%20COMPUTER%20SCIENTIST&fontSize=40&fontAlignY=35&animation=fadeIn)
 
 
 
