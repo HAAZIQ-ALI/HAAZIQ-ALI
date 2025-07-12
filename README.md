@@ -67,8 +67,6 @@ const goals = {
 </div>
 <img src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" width="190" height="180" align="right">
 <div align="left">
-  <img src="https://leetcard.jacoblin.cool/Y4heW1qDC3?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats"/>
-</div>
 
 
 
