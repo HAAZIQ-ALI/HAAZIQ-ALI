@@ -21,7 +21,7 @@ I'm a 15-year-old developer with a deep passion for turning creative ideas into 
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,npm,materialui,github,git,vscode,c,cpp,python" />
   </a>
 </p>
-
+<p> i am also learning Go and Rust </p>
 ---
 
 ### 📊 My GitHub Stats
