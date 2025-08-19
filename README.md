@@ -72,10 +72,6 @@ I'm a 15-year-old developer with a deep passion for turning creative ideas into 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=HAAZIQ-ALI&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HAAZIQ-ALI&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF7B72" alt="GitHub Activity Graph" />
-
-</div>
 
 ---
 
