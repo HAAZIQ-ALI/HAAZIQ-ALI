@@ -18,28 +18,28 @@ I'm a 15-year-old developer with a deep passion for turning creative ideas into 
 
 <div align="center">
 
-#### 🌐 **Frontend & Web Technologies**
+#### 🌐 **Web Stuff**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,materialui" />
   </a>
 </p>
 
-#### ⚡ **Backend & Systems**
+#### ⚡ **Other Stuff**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,npm" />
   </a>
 </p>
 
-#### 🔮 **Magic Tools & Environment**
+#### 🔮 **Magical Tools That I Use**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=neovim,vscode,git,github" />
   </a>
 </p>
 
-#### 🚀 **Currently Mastering**
+#### 🚀 **Currently Learning**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,rust" />
