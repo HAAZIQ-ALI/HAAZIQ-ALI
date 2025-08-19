@@ -92,7 +92,7 @@ I'm a 15-year-old developer with a deep passion for turning creative ideas into 
 
 <div align="center">
 
-<a href="https://haaziq-ali-github-io.onrender.com/" target="_blank">
+<a href="https://karou.me/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117" alt="Portfolio">
 </a>
 <a href="mailto:haaziqali01@gmail.com">
