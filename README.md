@@ -14,54 +14,113 @@ I'm a 15-year-old developer with a deep passion for turning creative ideas into 
 <p> I'm on a mission to become a top 99% developer and am always excited to learn, grow, and collaborate .</p>
 ---
 
-### 🛠️ My Tech Stack
+### 💻 Programming Arsenal
 
-<p align="center">
+<div align="center">
+
+#### 🌐 **Frontend & Web Technologies**
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,npm,materialui,github,git,vscode,c,cpp,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,materialui" />
   </a>
 </p>
-<p> i am also learning Go and Rust . </p>
+
+#### ⚡ **Backend & Systems**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,npm" />
+  </a>
+</p>
+
+#### 🔮 **Magic Tools & Environment**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=neovim,vscode,git,github" />
+  </a>
+</p>
+
+#### 🚀 **Currently Mastering**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,rust" />
+  </a>
+</p>
+
+</div>
+
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Analytics
 
-<table>
+<table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=HAAZIQ-ALI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15" alt="Haaziq's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=HAAZIQ-ALI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_color=30363D" alt="Haaziq's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAAZIQ-ALI&layout=compact&langs_count=7&theme=tokyonight&border_radius=15" alt="Haaziq's Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAAZIQ-ALI&layout=compact&langs_count=8&theme=tokyonight&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" alt="Haaziq's Top Languages" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HAAZIQ-ALI&theme=tokyonight&hide_border=false&border_radius=15" alt="Haaziq's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HAAZIQ-ALI&theme=tokyonight&hide_border=false&border_radius=20&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=7D8590&sideLabels=C9D1D9" alt="Haaziq's GitHub Streak" />
 </p>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=HAAZIQ-ALI&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HAAZIQ-ALI&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF7B72" alt="GitHub Activity Graph" />
+
+</div>
 
 ---
 
-### 📫 Let's Connect!
+### 🌟 Featured Projects
 
-<p align="center">
-  <a href="https://haaziq-ali-github-io.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:haaziqali01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HAAZIQ-ALI" alt="Profile views">
-</p>
+| 🚀 Project | 📝 Description | 🔗 Demo |
+|------------|----------------|---------|
+| **Portfolio** | My digital showcase built with modern web tech | [Live Site](https://haaziq-ali-github-io.onrender.com/) |
+| **Coming Soon...** | Exciting projects in development! | 🔥 Stay tuned |
 
-> "I'm gonna be King of the Developers!" - Monkey D. Luffy (probably)
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
+### 📫 Let's Connect & Collaborate!
+
+<div align="center">
+
+<a href="https://haaziq-ali-github-io.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117" alt="Portfolio">
+</a>
+<a href="mailto:haaziqali01@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail">
+</a>
+
+<br><br>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=HAAZIQ-ALI&style=for-the-badge&color=00C7B7&labelColor=0D1117" alt="Profile Views">
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer's Philosophy
+
+> *"I'm gonna be King of the Developers!"* - Monkey D. Luffy (probably) 🏴‍☠️
+
+
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
 
 </div>
