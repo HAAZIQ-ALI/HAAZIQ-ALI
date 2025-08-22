@@ -69,8 +69,6 @@ I'm a 15-year-old developer with a deep passion for turning creative ideas into 
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=HAAZIQ-ALI&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 
 ---
@@ -115,8 +113,3 @@ I'm a 15-year-old developer with a deep passion for turning creative ideas into 
 
 
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
-
-</div>
