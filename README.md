@@ -73,7 +73,7 @@ I'm a 15-year-old developer with a deep passion for turning creative ideas into 
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Setup
 
 <div align="center">
 
