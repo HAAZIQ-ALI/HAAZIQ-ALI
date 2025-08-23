@@ -77,10 +77,8 @@ I'm a 15-year-old developer with a deep passion for turning creative ideas into 
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🔗 Demo |
-|------------|----------------|---------|
-| **Portfolio** | My digital showcase built with modern web tech | [Live Site](https://haaziq-ali-github-io.onrender.com/) |
-| **Coming Soon...** | Exciting projects in development! | 🔥 Stay tuned |
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/75f0d942-d7b2-4c72-b3c4-841b3f6e96dd" />
+<p>I use arch & nvim btw</p>
 
 </div>
 
