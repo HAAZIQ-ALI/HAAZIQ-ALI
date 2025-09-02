@@ -84,22 +84,6 @@ I'm a 15-year-old developer with a deep passion for turning creative ideas into 
 
 ---
 
-### 📫 Let's Connect & Collaborate!
-
-<div align="center">
-
-<a href="https://karou.me/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117" alt="Portfolio">
-</a>
-<a href="mailto:haaziqali01@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail">
-</a>
-
-<br><br>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HAAZIQ-ALI&style=for-the-badge&color=00C7B7&labelColor=0D1117" alt="Profile Views">
-
-</div>
 
 ---
 
@@ -109,5 +93,5 @@ I'm a 15-year-old developer with a deep passion for turning creative ideas into 
 
 > *"I'm gonna be King of the Developers!"* - Monkey D. Luffy (probably) 🏴‍☠️
 
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=HAAZIQ-ALI&style=for-the-badge&color=00C7B7&labelColor=0D1117" alt="Profile Views">
 
