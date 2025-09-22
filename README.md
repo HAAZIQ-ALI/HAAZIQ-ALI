@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Passionate+Developer+%F0%9F%92%BB;Anime+Enthusiast+%F0%9F%8E%AD;Turning+Dreams+Into+Reality+%F0%9F%92%A1)](https://git.io/typing-svg)
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ASPIRING%20COMPUTER%20SCIENTIST%20%F0%9F%92%BB&fontSize=40&fontAlignY=35&animation=fadeIn)
 
 ---
 
@@ -89,9 +88,6 @@ I'm a 15-year-old developer with a deep passion for turning creative ideas into 
 
 <div align="center">
 
-### 💭 Developer's Philosophy
-
-> *"I'm gonna be King of the Developers!"* - Monkey D. Luffy (probably) 🏴‍☠️
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=HAAZIQ-ALI&style=for-the-badge&color=00C7B7&labelColor=0D1117" alt="Profile Views">
 
