@@ -33,9 +33,8 @@
     <h2></h2>
     <p align="center">
       <samp>
-        [ <a href="#--------">about me</a> .
-        <a href="https://github.com/HAAZIQ-ALI?tab=repositories">projects</a> .
-        <a href="mailto:haaziqali@example.com">contact</a> ]
+        [ <a href="#-about-me">about me</a> .
+        <a href="https://github.com/HAAZIQ-ALI?tab=repositories">projects</a> ]
       </samp>
     </p>
     <h2></h2>
@@ -82,22 +81,18 @@
       <table>
         <tr>
           <td>
-            <a href="#--------">
-              <img
-                align="center"
-                alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=HAAZIQ-ALI&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
-              />
-            </a>
+            <img
+              align="center"
+              alt="GitHub Stats"
+              src="https://github-readme-stats.vercel.app/api?username=HAAZIQ-ALI&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
+            />
           </td>
           <td>
-            <a href="#--------">
-              <img
-                align="center"
-                alt="Top Language"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAAZIQ-ALI&hide_progress=true&layout=compact&hide_border=true&langs_count=10&theme=tokyonight"
-              />
-            </a>
+            <img
+              align="center"
+              alt="Top Language"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAAZIQ-ALI&hide_progress=true&layout=compact&hide_border=true&langs_count=10&theme=tokyonight"
+            />
           </td>
         </tr>
       </table>
