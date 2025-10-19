@@ -9,7 +9,7 @@
       <b>
         Welcome
         <br />
-        I'm Haaziq Ali, a Passionate Developer.
+        I'm Haaziq Ali, A Learner .
       </b>
       <br />
       <img
