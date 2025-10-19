@@ -40,7 +40,7 @@
     <h2></h2>
     <br />
     <div align="center">
-      <h3>🚀 About Me</h3>
+      <h3 id="-about-me">🚀 About Me</h3>
       <p align="center">
         <samp>
           I'm a 15-year-old developer with a deep passion for turning creative ideas into reality.<br />
