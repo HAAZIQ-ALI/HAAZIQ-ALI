@@ -6,9 +6,11 @@
 
 I build things that solve problems, explore code deeply, and think about how things work.
 
-**Currently:**  C++  
-**Reading:** The Death of ivan ilyich by Leo Tolstoy
+**Faviourite Movie :** The Shawsank Redemption   
+**Faviourite Anime :** The One Piece <br>
+**Faviourite Book  :** The Picture Of Dorian Gray 
 
+<sub>ahh its js an peek theres countless more that i will give those titles </sub>
 ---
 
 I also do calisthenics, write my thoughts, ideals, and ideas.  
